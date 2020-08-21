@@ -1,6 +1,7 @@
 ##Requirements
 OpenWeatherMap API
 citipy Python package
+
 APIs are very useful in gathering data for an analysis. Here, the OpenWeatherMap API was utilized to gather data to visualize some weather metrics against the latitude of a randomly generated list of 500+ cities. The following relationships are presented:
 
 Temperature (F) vs. Latitude
